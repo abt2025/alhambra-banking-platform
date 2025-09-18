@@ -1,0 +1,23 @@
+{
+  "name": "alhambra-bank-website",
+  "version": "1.0.0",
+  "description": "Official website for Alhambra Bank & Trust",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 3000"
+  },
+  "keywords": [
+    "banking",
+    "finance",
+    "wealth-management",
+    "cayman-islands"
+  ],
+  "author": "Alhambra Bank & Trust",
+  "license": "Proprietary",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abt2025/alhambra-banking-platform.git"
+  },
+  "homepage": "https://alhambrabank.ky"
+}
